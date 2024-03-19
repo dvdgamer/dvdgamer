@@ -8,8 +8,8 @@
 - ⚡ Fun fact **I have got an EP out on SoundCloud**
 
 <h3 align="left">My bootcamp projects :</h3>
-- <a href="https://github.com/Kaprans22/THRIFTIQUE" target="_blank"> Thriftique </a> <p>: an online second-hand marketplace</p>
-- <a href="https://github.com/Kaprans22/WiseVoyage" target="_blank"> Thriftique </a> <p>: an all-in-one travelling app with AI generation </p>
+- <a href="https://github.com/Kaprans22/THRIFTIQUE" target="_blank"> Thriftique </a> <p align="left">: an online second-hand marketplace</p>
+- <a href="https://github.com/Kaprans22/WiseVoyage" target="_blank"> Thriftique </a> <p align="left">: an all-in-one travelling app with AI generation </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
