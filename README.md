@@ -1,7 +1,7 @@
 <h1 align="center">Hi peeps 🤙🏽, I'm David Ponte</h1>
 <h3 align="center">A very curious web developer based in the Netherlands</h3>
 
-- 🌱 I’m currently building a **PHP/React Native app**
+- 🌱 I’m currently building a **FullStack Express.js/React Native app**
 
 - 📫 How to reach me **davidnmponte@gmail.com**
 
