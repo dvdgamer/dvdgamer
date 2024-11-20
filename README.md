@@ -1,4 +1,4 @@
-<h1 align="center">Hi peeps 🤙🏽, I'm David Bridge</h1>
+<h1 align="center">Hi peeps 🤙🏽, I'm David Ponte</h1>
 <h3 align="center">A very curious web developer based in the Netherlands</h3>
 
 - 🌱 I’m currently building a **FullStack Express.js/React Native app**
