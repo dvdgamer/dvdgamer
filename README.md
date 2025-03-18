@@ -20,12 +20,16 @@ const david = {
   availableForHire: true,
   education: [
     "Le Wagon Amsterdam, a 9-week full-time intensive coding BootCamp",
-    "Meta Online Advanced React Course"
+    "Meta Online Advanced React Course",
+    "Codam Piscine"
   ],
   otherAlias: "Junior Full Stack Developer",
-  codesIn: ["HTML", "CSS", "Ruby on Rails", "Javascript", "Vue", "React"],
-  toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"],
-  myProjects: ["Thriftique, second-hand marketplace", "WiseVoyage, seamless trip planner powered by advanced AI APIs"],
+  codesIn: ["HTML", "CSS", "Ruby on Rails", "Javascript", "Typescript", "Vue", "React", "Rust", "C", "Lua"],
+  toolsUsed: ["Visual Studio Code", "Nvim", "Nginx", "SSH", "Docker", "Bootstrap", "Figma", "GitHub", "Heroku"],
+  myProjects: [
+    "Thriftique, second-hand marketplace", "WiseVoyage, seamless trip planner powered by advanced AI APIs",
+    "Forget-mw-knot, App to stay in touch wit hyour friends"\
+  ],
 }; 
 ```
 
