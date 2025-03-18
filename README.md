@@ -67,22 +67,11 @@
   </a>  
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" width="40" height="40" title="Nginx"/>  
-  </a>  
-  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberry_pi.png" alt="Raspberry Pi" width="40" height="40" title="Raspberry Pi"/>  
-  </a>  
+  </a> 
   <a href="https://www.docker.com" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40" title="Docker"/>  
   </a>  
-</p>  
-
-<code>  
-  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/>  
-  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>  
-  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>  
-  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberry_pi.png" alt="Raspberry Pi" title="Raspberry Pi"/>  
-  <img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>  
-</code>  
+</p>
 
 ```javascript
 const david = {
