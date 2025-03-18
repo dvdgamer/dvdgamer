@@ -58,6 +58,21 @@
   </a>  
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>  
+  </a> 
+  <a href="https://dev-c.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" width="40" height="40" title="C"/>  
+  </a>  
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" width="40" height="40" title="Rust"/>  
+  </a>  
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" width="40" height="40" title="Nginx"/>  
+  </a>  
+  <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberry_pi.png" alt="Raspberry Pi" width="40" height="40" title="Raspberry Pi"/>  
+  </a>  
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40" title="Docker"/>  
   </a>  
 </p>  
 
