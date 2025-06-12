@@ -79,7 +79,7 @@ const david = {
   education: [
     "Le Wagon Amsterdam, a 9-week full-time intensive coding BootCamp",
     "Meta Online Advanced React Course",
-    "Codam Piscine"
+    "Codam - School 42"
   ],
   otherAlias: "Junior Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby on Rails", "Javascript", "Typescript", "Vue", "React", "Rust", "C", "Lua"],
