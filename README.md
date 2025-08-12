@@ -86,7 +86,7 @@ const david = {
   toolsUsed: ["Visual Studio Code", "Nvim", "Nginx", "SSH", "Docker", "Bootstrap", "Figma", "GitHub", "Heroku"],
   myProjects: [
     "Thriftique, second-hand marketplace", "WiseVoyage, seamless trip planner powered by advanced AI APIs",
-    "Forget-mw-knot, App to stay in touch wit hyour friends"\
+    "Forget-me-knot, App to stay in touch wit hyour friends"\
   ],
 }; 
 ```
